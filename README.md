@@ -1,3 +1,3 @@
 #Python loop exercises
 
-This repository contains exercices focused on using loops in Python.
+This repository contains exercices focused on using conditions and loops in Python.
